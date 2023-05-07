@@ -24,7 +24,11 @@
 
 ## 작품 사진
 
+-구성도
+
 ![image](https://user-images.githubusercontent.com/124149731/236663390-04a81154-a4ae-41e9-9299-3e13e3b28492.png)
+
+-순서도
 
 ![image](https://user-images.githubusercontent.com/124149731/236663395-2254744e-a809-4ee7-808f-7601c3444ed6.png)
 
