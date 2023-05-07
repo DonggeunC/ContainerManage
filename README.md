@@ -18,17 +18,17 @@
 
 ## 시스템 구성도 및 순서도
 
+-구성도
+
 ![image](https://user-images.githubusercontent.com/124149731/236663358-9db85087-7bcc-4570-b5de-607cedadf543.png)
+
+-순서도
 
 ![image](https://user-images.githubusercontent.com/124149731/236663384-f90d81d5-a9a2-4f7e-b4a9-6c20f9774a1f.png)
 
 ## 작품 사진
 
--구성도
-
 ![image](https://user-images.githubusercontent.com/124149731/236663390-04a81154-a4ae-41e9-9299-3e13e3b28492.png)
-
--순서도
 
 ![image](https://user-images.githubusercontent.com/124149731/236663395-2254744e-a809-4ee7-808f-7601c3444ed6.png)
 
